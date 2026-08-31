@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "revision": "2026-08-31-1",
-  "generatedAt": "2026-08-31T14:12:36.683Z",
+  "generatedAt": "2026-08-31T15:01:41.453Z",
   "items": [
     {
       "id": "academy-guide",
@@ -10,15 +10,15 @@
         "learning",
         "document"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/academy-guide/SKILL.md",
-        "sha256": "18f7ec9f1ec64f327fd98a592d9a99dbbe685d60a88a3106fb30f7454f3ffd0d"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/academy-guide/SKILL.md",
+        "sha256": "50b3b7f9635664b7080a1681fda4bebdf689599ee3abffbdb052d1ea4ee02e2d"
       }
     },
     {
@@ -28,15 +28,15 @@
         "design",
         "creative"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/algorithmic-art/SKILL.md",
-        "sha256": "6688fc81bb2051d3f234385b50ce160834eb0b0510ed8a5816cc412c1d28c352"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/algorithmic-art/SKILL.md",
+        "sha256": "3bc4092c09804853186524c826bc0621b940bb6122c05b84496dff95388e6eef"
       }
     },
     {
@@ -46,15 +46,15 @@
         "design",
         "marketing"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/brand-guidelines/SKILL.md",
-        "sha256": "a0aa0a21ebf9e8511a045cc234bc839adc2b6706db727add14e9855f242e11a7"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/brand-guidelines/SKILL.md",
+        "sha256": "1120b3769e2985cefb3d25be981b1f914abeba57ae079b83c20c666c164fa9fe"
       }
     },
     {
@@ -64,15 +64,15 @@
         "design",
         "creative"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/canvas-design/SKILL.md",
-        "sha256": "7bebc4a2cf108c55c1e52bb96b1050dc1ab2f9492e9c2d43f1fe57f826728f4d"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/canvas-design/SKILL.md",
+        "sha256": "a1f288079624402f30682753c1d43920b6664785698d21d3e7aa197450a6448b"
       }
     },
     {
@@ -82,15 +82,15 @@
         "developer-tools",
         "api"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/claude-api/SKILL.md",
-        "sha256": "a7f3a2fc5c3126ba092d21175ca0074ea936c843dac53c2b40e00996aa3577d9"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/claude-api/SKILL.md",
+        "sha256": "0c9371d26fb44a3b2b65d55c84b68a9878607472c2bcbc7d004376d7488833e6"
       }
     },
     {
@@ -99,15 +99,15 @@
       "categories": [
         "engineering"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/code-review/SKILL.md",
-        "sha256": "28b7441717d800bf6e1c3bbd1bb7d1d38ae33282958cc2194383e7460df26aa9"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/code-review/SKILL.md",
+        "sha256": "79820bb0b79b1999b1a43db5809c0c528ba8e2df58551cd3b8ff907be8992cf3"
       }
     },
     {
@@ -117,15 +117,15 @@
         "writing",
         "analysis"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/discernment-nudge/SKILL.md",
-        "sha256": "901a9e3c6efe674cbef15e98ae638f861c027398c989e720380be8f10319308c"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/discernment-nudge/SKILL.md",
+        "sha256": "230e6665f4f253544a1be67fa5f5f78e66b36f319db0c3c413516fddc45b3eb9"
       }
     },
     {
@@ -135,15 +135,15 @@
         "office",
         "writing"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/doc-coauthoring/SKILL.md",
-        "sha256": "acb9b89b228fb818ffe2f464e40b1cdbf6948b50ceeeb7378f0e5b9d78c996ad"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/doc-coauthoring/SKILL.md",
+        "sha256": "2e47d78846faeea4a56e9809c52700087a15a2155a3f293a3efbaded81398ef4"
       }
     },
     {
@@ -153,15 +153,15 @@
         "office",
         "document"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/docx/SKILL.md",
-        "sha256": "6f9f3a1436b285cbc8a5eaddc08be7523fa9b30089c945a95e4cd78e33cf391d"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/docx/SKILL.md",
+        "sha256": "5e030c1393a73657a9ea147c53491c63d8121d84cf2cd0c9fda15c70483af9ba"
       }
     },
     {
@@ -171,15 +171,15 @@
         "design",
         "web"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/frontend-design/SKILL.md",
-        "sha256": "35c43b9d10c2388dbb228047ad028c989a14033750812125f351c85aa42c7a4a"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/frontend-design/SKILL.md",
+        "sha256": "1608ea77fbb6fc30d13a97d12cfa8ebf31358d40f0dd97beed24829d6b3f45dd"
       }
     },
     {
@@ -188,15 +188,15 @@
       "categories": [
         "engineering"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/git-commit-message/SKILL.md",
-        "sha256": "5537bdef01e77627cf749054bd98252570151f123cb39cc76504cc18d2f7d766"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/git-commit-message/SKILL.md",
+        "sha256": "cd2bd537c111ef057804c5c060492484e895aa310b18fe7c31c53f91983354ab"
       }
     },
     {
@@ -206,15 +206,15 @@
         "writing",
         "communication"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/internal-comms/SKILL.md",
-        "sha256": "c5c061ab25b33fab2358a9be53a5cc0d528ec7c3e8a29285a041ffc95d0d8947"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/internal-comms/SKILL.md",
+        "sha256": "067b7587a344a928fc6534ef66b1bcd591fc7c26d207ea7ca3334aeb678d6475"
       }
     },
     {
@@ -223,15 +223,15 @@
       "categories": [
         "ops"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/log-analysis/SKILL.md",
-        "sha256": "236db703b62fafcee62063bcda25dacba17b810f5e92dd0bcabfea7b5c4ba48b"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/log-analysis/SKILL.md",
+        "sha256": "375ea6218bbd19f609820e0272b0c92efc88ed68a4e259b2bb58efdb7b1486e8"
       }
     },
     {
@@ -241,15 +241,15 @@
         "developer-tools",
         "mcp"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/mcp-builder/SKILL.md",
-        "sha256": "57231330040e18e033dad8b2fdc0340a6185034c32b42b7d3448f444a6af6cf2"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/mcp-builder/SKILL.md",
+        "sha256": "0f4592dcb53cf2b5d6b7febee6b4152018b565551a1c29e3c612f57b218ab295"
       }
     },
     {
@@ -258,15 +258,15 @@
       "categories": [
         "research"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/paper-summary/SKILL.md",
-        "sha256": "90a57b9652db59ec3c96c1a41b32f174d6253d67e549c93511b60fe7536643cb"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/paper-summary/SKILL.md",
+        "sha256": "5a98bb0b1ec4c25db15630071672dda087f44c64249525844b82487aa1dcf860"
       }
     },
     {
@@ -276,15 +276,15 @@
         "office",
         "document"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/pdf/SKILL.md",
-        "sha256": "067401220db5745f719ff8c048d545d5edc8545e809668a3a6f9e2892fa51d48"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/pdf/SKILL.md",
+        "sha256": "9f78b8359fbd4943ad260a7a1e436e5a96503406d6c34e99f69223d647d85b9c"
       }
     },
     {
@@ -294,15 +294,15 @@
         "office",
         "presentation"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/pptx/SKILL.md",
-        "sha256": "a3638961652ea596d5bd5cdfbadad23ea2afcea2a70de78f602ea5883154603d"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/pptx/SKILL.md",
+        "sha256": "8dd8d7325fd67ab17ad5097f924c8cf2a3d9b21bccbf087c2d770eb86cd7c1fb"
       }
     },
     {
@@ -312,15 +312,15 @@
         "developer-tools",
         "meta"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/skill-creator/SKILL.md",
-        "sha256": "e030e7685e26283b4a76f5202aa3ae8516fb41dde799be5ae8ea6393ec009fe9"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/skill-creator/SKILL.md",
+        "sha256": "dcd4803e61e913e6fc27294184cd3a71f09f5e924ff20c8a9a20173e7b3c2bcf"
       }
     },
     {
@@ -330,15 +330,15 @@
         "creative",
         "communication"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/slack-gif-creator/SKILL.md",
-        "sha256": "561c85ffeab639a1e84bb51cfc49f66e868a2a4c4b8945bf77b7bdaeca145a7d"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/slack-gif-creator/SKILL.md",
+        "sha256": "2efca615ce55a3edd8fc05c779068a8085816617991987e446606403cd3abb22"
       }
     },
     {
@@ -348,15 +348,15 @@
         "design",
         "frontend"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/theme-factory/SKILL.md",
-        "sha256": "7c765e6626bf61eca30224ceeb0da51ac003c7c2f1c1743ace9b3baa305ea632"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/theme-factory/SKILL.md",
+        "sha256": "c35893e221e28895c52143cc11bf30e41a44817796b39d4b15727dadc9796552"
       }
     },
     {
@@ -366,15 +366,15 @@
         "web",
         "design"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/web-artifacts-builder/SKILL.md",
-        "sha256": "fed403699c30a8dfc91b43bc82e76c06a0e935e86395cab943644767878a48d4"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/web-artifacts-builder/SKILL.md",
+        "sha256": "81c5002c6643b0de7b8710b00e7a9038daa6fb9b68d59870ee6adb12da8d10f8"
       }
     },
     {
@@ -384,15 +384,15 @@
         "testing",
         "web"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/webapp-testing/SKILL.md",
-        "sha256": "8bc27790f6e6dfc2bfa6692326d4518baacf6a31dcc646d963c729adad2f7e34"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/webapp-testing/SKILL.md",
+        "sha256": "51b7349e77ec63b7744a6f63647e7566a0b4d2e301121cc10e8c2113af6556a2"
       }
     },
     {
@@ -402,15 +402,15 @@
         "office",
         "spreadsheet"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/xlsx/SKILL.md",
-        "sha256": "6aab3abe00dee61c98ac97e7c1149efd9a037efd8d9076780515a774ed248fe6"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2/skills/xlsx/SKILL.md",
+        "sha256": "0c1505a3b913a1d451a233129166b8513c45e1291aca288808780ad7383e6bf0"
       }
     }
   ]

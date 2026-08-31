@@ -13,8 +13,8 @@ const sha256Hex = (s) => createHash("sha256").update(s, "utf8").digest("hex");
 const ID_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
 // jsDelivr serves this repo at an immutable tag; bump VERSION + BASE on each release.
-const BASE = "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1";
-const VERSION = "1.1.1";
+const BASE = "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.2";
+const VERSION = "1.1.2";
 const AUTHOR = { name: "luomious", url: "https://github.com/luomious" };
 
 const CATEGORIES = {
