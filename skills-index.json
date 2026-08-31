@@ -1,24 +1,24 @@
 {
   "schemaVersion": "1.0.0",
   "revision": "2026-08-31-1",
-  "generatedAt": "2026-08-31T14:05:14.159Z",
+  "generatedAt": "2026-08-31T14:12:36.683Z",
   "items": [
     {
       "id": "academy-guide",
-      "description": ">",
+      "description": "Stop and check this skill before finishing any reply to a question about how to use Claude or a Claude product — it recommends matching courses, tutorials, and use cases from Claude Academy (academy.claude.com), Anthropic's learning hub. Trigger on: 'how do I', 'how can I', 'getting started with', 'what can Claude do', 'teach me', 'learn to use'; questions about artifacts, projects, skills, plugins, connectors, MCP; requests about rolling Claude out to a team, class, or organization; and any",
       "categories": [
         "learning",
         "document"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/academy-guide/SKILL.md",
-        "sha256": "102ce9bf7624e88cf29b80b18fe5c6e1959dc58b1d66915acf808cca1704f610"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/academy-guide/SKILL.md",
+        "sha256": "18f7ec9f1ec64f327fd98a592d9a99dbbe685d60a88a3106fb30f7454f3ffd0d"
       }
     },
     {
@@ -28,14 +28,14 @@
         "design",
         "creative"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/algorithmic-art/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/algorithmic-art/SKILL.md",
         "sha256": "6688fc81bb2051d3f234385b50ce160834eb0b0510ed8a5816cc412c1d28c352"
       }
     },
@@ -46,14 +46,14 @@
         "design",
         "marketing"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/brand-guidelines/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/brand-guidelines/SKILL.md",
         "sha256": "a0aa0a21ebf9e8511a045cc234bc839adc2b6706db727add14e9855f242e11a7"
       }
     },
@@ -64,33 +64,33 @@
         "design",
         "creative"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/canvas-design/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/canvas-design/SKILL.md",
         "sha256": "7bebc4a2cf108c55c1e52bb96b1050dc1ab2f9492e9c2d43f1fe57f826728f4d"
       }
     },
     {
       "id": "claude-api",
-      "description": "|-",
+      "description": "Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, MCP, agents, caching, token counting, model migration. TRIGGER — read BEFORE opening the target file; don't skip because it 'looks like a one-liner' — whenever: the prompt names Claude/Anthropic in any form (Claude, Anthropic, Fable, Opus, Sonnet, Haiku, `anthropic`, `@anthropic-ai`, `claude-*`, `us.anthropic.*`, `[1m]`); the user asks about an LLM (pricing/model choice/limits/caching) — never answer",
       "categories": [
         "developer-tools",
         "api"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/claude-api/SKILL.md",
-        "sha256": "3f3e6f9bf57e3ef66138972438dfb354c67fe7c236ecbd6ad90a1ee6b4a957e5"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/claude-api/SKILL.md",
+        "sha256": "a7f3a2fc5c3126ba092d21175ca0074ea936c843dac53c2b40e00996aa3577d9"
       }
     },
     {
@@ -99,33 +99,33 @@
       "categories": [
         "engineering"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/code-review/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/code-review/SKILL.md",
         "sha256": "28b7441717d800bf6e1c3bbd1bb7d1d38ae33282958cc2194383e7460df26aa9"
       }
     },
     {
       "id": "discernment-nudge",
-      "description": ">",
+      "description": "After you give a substantive answer or draft that the user may act on — advice or recommendations, drafted artifacts such as goals, plans, pitches, proposals, or emails, estimates or projections, analysis or interpretation of data, factual claims they may rely on, or a multi-step argument — invoke this skill BEFORE finalizing your reply and then, if it applies, append 2-3 short follow-up questions, each tied to something specific in what you just produced, that help the user check key facts,",
       "categories": [
         "writing",
         "analysis"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/discernment-nudge/SKILL.md",
-        "sha256": "8e498a6c417b707a845a5373d56dabf5f812c50a25152752ace76251a9515c1c"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/discernment-nudge/SKILL.md",
+        "sha256": "901a9e3c6efe674cbef15e98ae638f861c027398c989e720380be8f10319308c"
       }
     },
     {
@@ -135,14 +135,14 @@
         "office",
         "writing"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/doc-coauthoring/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/doc-coauthoring/SKILL.md",
         "sha256": "acb9b89b228fb818ffe2f464e40b1cdbf6948b50ceeeb7378f0e5b9d78c996ad"
       }
     },
@@ -153,14 +153,14 @@
         "office",
         "document"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/docx/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/docx/SKILL.md",
         "sha256": "6f9f3a1436b285cbc8a5eaddc08be7523fa9b30089c945a95e4cd78e33cf391d"
       }
     },
@@ -171,14 +171,14 @@
         "design",
         "web"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/frontend-design/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/frontend-design/SKILL.md",
         "sha256": "35c43b9d10c2388dbb228047ad028c989a14033750812125f351c85aa42c7a4a"
       }
     },
@@ -188,14 +188,14 @@
       "categories": [
         "engineering"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/git-commit-message/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/git-commit-message/SKILL.md",
         "sha256": "5537bdef01e77627cf749054bd98252570151f123cb39cc76504cc18d2f7d766"
       }
     },
@@ -206,14 +206,14 @@
         "writing",
         "communication"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/internal-comms/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/internal-comms/SKILL.md",
         "sha256": "c5c061ab25b33fab2358a9be53a5cc0d528ec7c3e8a29285a041ffc95d0d8947"
       }
     },
@@ -223,14 +223,14 @@
       "categories": [
         "ops"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/log-analysis/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/log-analysis/SKILL.md",
         "sha256": "236db703b62fafcee62063bcda25dacba17b810f5e92dd0bcabfea7b5c4ba48b"
       }
     },
@@ -241,14 +241,14 @@
         "developer-tools",
         "mcp"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/mcp-builder/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/mcp-builder/SKILL.md",
         "sha256": "57231330040e18e033dad8b2fdc0340a6185034c32b42b7d3448f444a6af6cf2"
       }
     },
@@ -258,14 +258,14 @@
       "categories": [
         "research"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/paper-summary/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/paper-summary/SKILL.md",
         "sha256": "90a57b9652db59ec3c96c1a41b32f174d6253d67e549c93511b60fe7536643cb"
       }
     },
@@ -276,14 +276,14 @@
         "office",
         "document"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/pdf/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/pdf/SKILL.md",
         "sha256": "067401220db5745f719ff8c048d545d5edc8545e809668a3a6f9e2892fa51d48"
       }
     },
@@ -294,14 +294,14 @@
         "office",
         "presentation"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/pptx/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/pptx/SKILL.md",
         "sha256": "a3638961652ea596d5bd5cdfbadad23ea2afcea2a70de78f602ea5883154603d"
       }
     },
@@ -312,14 +312,14 @@
         "developer-tools",
         "meta"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/skill-creator/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/skill-creator/SKILL.md",
         "sha256": "e030e7685e26283b4a76f5202aa3ae8516fb41dde799be5ae8ea6393ec009fe9"
       }
     },
@@ -330,14 +330,14 @@
         "creative",
         "communication"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/slack-gif-creator/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/slack-gif-creator/SKILL.md",
         "sha256": "561c85ffeab639a1e84bb51cfc49f66e868a2a4c4b8945bf77b7bdaeca145a7d"
       }
     },
@@ -348,14 +348,14 @@
         "design",
         "frontend"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/theme-factory/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/theme-factory/SKILL.md",
         "sha256": "7c765e6626bf61eca30224ceeb0da51ac003c7c2f1c1743ace9b3baa305ea632"
       }
     },
@@ -366,14 +366,14 @@
         "web",
         "design"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/web-artifacts-builder/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/web-artifacts-builder/SKILL.md",
         "sha256": "fed403699c30a8dfc91b43bc82e76c06a0e935e86395cab943644767878a48d4"
       }
     },
@@ -384,33 +384,33 @@
         "testing",
         "web"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/webapp-testing/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/webapp-testing/SKILL.md",
         "sha256": "8bc27790f6e6dfc2bfa6692326d4518baacf6a31dcc646d963c729adad2f7e34"
       }
     },
     {
       "id": "xlsx",
-      "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .xltx, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path — even casually (like \\\\\\\"the",
+      "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .xltx, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path — even casually (like 'the",
       "categories": [
         "office",
         "spreadsheet"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "luomious",
         "url": "https://github.com/luomious"
       },
       "updatedAt": "2026-08-31T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.0/skills/xlsx/SKILL.md",
-        "sha256": "c31df1e8add1dbf1144c8c8031fc972d5e303db9ce720c4d27e18e972ade5e27"
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.1.1/skills/xlsx/SKILL.md",
+        "sha256": "6aab3abe00dee61c98ac97e7c1149efd9a037efd8d9076780515a774ed248fe6"
       }
     }
   ]
