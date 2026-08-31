@@ -9,6 +9,7 @@
   },
   "transport": {
     "kind": "https-json",
-    "endpoint": "https://raw.githubusercontent.com/luomious/dsh-skill-catalog/main/skills-index.json"
-  }
+    "endpoint": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@main/skills-index.json"
+  },
+  "manifestUrl": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@main/manifest.json"
 }
