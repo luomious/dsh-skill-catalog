@@ -16,7 +16,7 @@
       },
       "updatedAt": "2026-08-28T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@main/skills/code-review/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.0.0/skills/code-review/SKILL.md",
         "sha256": "79820bb0b79b1999b1a43db5809c0c528ba8e2df58551cd3b8ff907be8992cf3"
       }
     },
@@ -33,7 +33,7 @@
       },
       "updatedAt": "2026-08-28T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@main/skills/git-commit-message/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.0.0/skills/git-commit-message/SKILL.md",
         "sha256": "cd2bd537c111ef057804c5c060492484e895aa310b18fe7c31c53f91983354ab"
       }
     },
@@ -50,7 +50,7 @@
       },
       "updatedAt": "2026-08-28T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@main/skills/log-analysis/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.0.0/skills/log-analysis/SKILL.md",
         "sha256": "375ea6218bbd19f609820e0272b0c92efc88ed68a4e259b2bb58efdb7b1486e8"
       }
     },
@@ -67,7 +67,7 @@
       },
       "updatedAt": "2026-08-28T00:00:00Z",
       "download": {
-        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@main/skills/paper-summary/SKILL.md",
+        "url": "https://cdn.jsdelivr.net/gh/luomious/dsh-skill-catalog@v1.0.0/skills/paper-summary/SKILL.md",
         "sha256": "5a98bb0b1ec4c25db15630071672dda087f44c64249525844b82487aa1dcf860"
       }
     }
